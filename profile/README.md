@@ -15,7 +15,7 @@ We create and maintain open-source tools and scripts that make system administra
 
 ### 🌟 Featured Projects
 
-- [ncp](../ncp) - Network Copy tool built on rsync with simplified interface
+- [ncp](https://github.com/fshub-major/ncp) - Network Copy tool built on rsync with simplified interface
   - Easy file transfers over network
   - User-friendly command syntax
   - Built-in configuration management
