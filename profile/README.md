@@ -39,7 +39,7 @@ Please feel free to open an issue or submit a pull request.
 
 ### 📝 License
 
-Most of our projects are released under the MIT License unless otherwise specified.
+Most of our projects are released under the MIT License unless otherwise specified. See the [LICENSE](LICENSE.md) file for details.
 
 © 2024 FSHub. All rights reserved.
 
